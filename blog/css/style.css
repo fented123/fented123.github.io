@@ -106,6 +106,7 @@ h1 {
     font-size: 3rem;
     letter-spacing: 0.25rem;
     transform: rotate(-4deg);
+    text-align: center;
 }
 
 
@@ -119,7 +120,7 @@ h1 {
     border-bottom-right-radius: 1rem;
     color: #ccbf32;
     background-color: #7621c5;
-    box-shadow: 5px 5px 4px -1px #a85dee;
+    box-shadow: 5px 5px 4px -1px #f868e5;
 }
 
 button {
@@ -152,6 +153,10 @@ body{
     margin: 1.5rem auto;
     width: 90%;
     min-width: 56.25rem;
+}
+
+.expand {
+    font-size: 0.4rem;
 }
 
 /* LAYOUT */
@@ -275,6 +280,7 @@ footer {
 .copyright {
     font-size:.75rem;
     text-align:left;
+    text-align: left;
 }
 
 footer a {
